@@ -4,7 +4,7 @@ A responsive and modern landing page showcasing multiple virtual internship prog
 
 ## 🌐 Live Preview
 
-[🔗 View Demo](https://internship.codeclause.com)
+[🔗 View Demo](https://codedev-pooja.github.io/VaultofCodes_Internship_task2/)
 
 ## 📌 Features
 
@@ -18,28 +18,21 @@ A responsive and modern landing page showcasing multiple virtual internship prog
 ├── index.html # Main HTML file
 ├── style.css # All styling here
 └── README.md # You're reading this!
-└── 
-
 
 ## 🚀 Technologies Used
-
 - **HTML5**
 - **CSS3 (Flexbox + Grid + Animations)**
 
 ## 🛠️ How to Use
-
 1. **Clone this repo**  
    ```bash
    git clone https://github.com/your-username/internship-landing-page.git
    cd internship-landing-page
 2. **Open index.html**
 You can double-click to open in browser, or use a live server extension.
-
 3. **Customize It**
-
-Update program details inside the index.html.
-
-Change colors or styles in style.css.
+4. Update program details inside the index.html.
+5. Change colors or styles in style.css.
 
 ✅ To-Do / Improvements
 Add more internship categories
